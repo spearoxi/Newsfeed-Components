@@ -1,5 +1,5 @@
 // This is the data we will be using, study it but don't change anything, yet.
-//David Spear
+// david Spear
 let menuItems = [
   'Students',
   'Faculty',
